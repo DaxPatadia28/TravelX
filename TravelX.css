@@ -578,7 +578,7 @@ header{
 }
 
 .package-table th {
-    background: linear-gradient(135deg, #343a40 0%, #495057 100%);
+    background: black;
     color: white;
     border: none;
     padding: 1.5rem 1rem;
